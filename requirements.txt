@@ -1,0 +1,16 @@
+absl-py==0.12.0
+attrs==21.2.0
+autopy==4.0.0
+certifi==2021.5.30
+dataclasses==0.8
+joblib==1.0.1
+mediapipe==0.8.3
+numpy==1.19.3
+opencv-python==4.5.2.52
+protobuf==3.17.2
+scikit-learn==0.24.2
+scipy==1.5.4
+six==1.16.0
+sklearn==0.0
+threadpoolctl==2.1.0
+wincertstore==0.2
